@@ -1,4 +1,4 @@
-# Dog Vision: AI-Powered Dog Breed Classification 🐶🤖
+# Dog Vision: AI-Powered Dog Breed Classification 🐶
 
 Welcome to the **Dog Vision** project! This project leverages deep learning techniques to classify dog breeds from images using a pre-trained convolutional neural network (CNN). Built with Python and TensorFlow, Dog Vision demonstrates how AI/ML can be applied to real-world image classification problems.
 
