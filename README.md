@@ -7,7 +7,7 @@ Welcome to the **Dog Vision** project! This project leverages deep learning tech
 - [Model](#model)
 - [Results](#results)
 
-## Overview 🌟
+## Overview 
 The **Dog Vision** project aims to classify dog breeds from images by applying **deep learning**. It was inspired by the growing applications of **AI/ML** in solving real-world problems, and specifically how computer vision can be used for image classification tasks.
 
 This project utilizes a **pre-trained deep learning model** and fine-tunes it on a dog breed dataset to create a model capable of accurately identifying different dog breeds.
@@ -20,7 +20,7 @@ Key features:
 ### Try It in Google Colab 🚀
 You can explore the project and test the model directly in Google Colab [here](https://colab.research.google.com/drive/1mUlKP1rcdfFHV3xq5cAYygh5bV5xWh_S?usp=sharing). 
 
-## Model 🧠
+## Model 
 The model is based on a **pre-trained convolutional neural network (CNN)**. The model was fine-tuned on a dog breed dataset using **TensorFlow** and **Keras**. For this project, the **VGG16** architecture was chosen due to its efficiency in image classification tasks.
 
 ### Training:
